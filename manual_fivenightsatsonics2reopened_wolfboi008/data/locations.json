@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Survive Night 1",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive Night 2",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:1|"
+  },
+  {
+    "name": "Survive Night 3",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:2|"
+  },
+  {
+    "name": "Survive Night 4",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:3|"
+  },
+  {
+    "name": "Survive Night 5",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Night 5",
+    "region": "Main Nights",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Survive Night 6",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Survive Night 8",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Complete Amy's Escape",
+    "region": "Custom Night",
+    "category": [
+      "Finale"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic| AND |Amy's Hammer|"
+  },
+  {
+    "name": "Night 8",
+    "region": "Custom Night",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic| AND |Amy's Hammer|"
+  },
+  {
+    "name": "Old Grudges",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Shining Toys",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Luiginette| AND |Withered Tails|"
+  },
+  {
+    "name": "Plumber Trouble",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Mario| AND |Luiginette| AND |Withered Mario| AND |Withered Tails|"
+  },
+  {
+    "name": "Tangled Foxes",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Taingle| AND |Luiginette| AND |Withered Tails|"
+  },
+  {
+    "name": "Hedgehog Fever",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "We Don't Bite",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Double Dinos",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Yoshi| AND |Luiginette| AND |Withered Yoshi| AND |Withered Tails|"
+  },
+  {
+    "name": "Night of Mishaps",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Hectic Hedgehogs",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Puppets Play",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Sunday",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "Mushroom Challenge 2.0",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Hedgehog Fever 2.0",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "No Plushie?",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Golden Sonic",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Max Mode",
+    "region": "Custom Night",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Honk",
+    "region": "Main Nights",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Weekly Check",
+    "region": "Main Nights",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Golden Honk",
+    "region": "Main Nights",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Bonus Check",
+    "region": "Main Nights",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Luiginette's Bad Luck",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Luiginette|"
+  },
+  {
+    "name": "Costume Party",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic|"
+  },
+  {
+    "name": "16 Bit Gamer",
+    "description": "A consistent way to get this Achievement is to die a bunch for two of the minigames, then for the third one, set Withered Sonic to 2, Withered Mario to 0, Withered Yoshi to 1, Withered Tails to 6, and Luiginette to 20, then clicking Start.",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails|"
+  },
+  {
+    "name": "Amy's Fate",
+    "region": "Main Nights",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Taingle| AND |Balloon Toad| AND |Luiginette| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Golden Sonic| AND |Amy's Hammer|"
+  },
+  {
+    "name": "Don't Shine the light near the hedgehog",
+    "region": "Main Nights",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:2| OR |Withered Sonic|"
+  },
+  {
+    "name": "Maker and Remaker",
+    "description": "I made this require beating the main game first so you basically have extra time before this is in logic.",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Too Many Decoration?",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Characters:12| AND |Amy's Hammer|"
+  },
+  {
+    "name": "Broken Record of Jumpscares",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Max Mode Time",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Skilled Survivor",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Thanks for playing",
+    "region": "Custom Night",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Characters:12| AND |Amy's Hammer|"
+  },
+  {
+    "name": "Toy Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Sonic|"
+  },
+  {
+    "name": "Toy Mario Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Mario|"
+  },
+  {
+    "name": "Toy Yoshi Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Yoshi|"
+  },
+  {
+    "name": "Taingle Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Taingle|"
+  },
+  {
+    "name": "Balloon Toad Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Balloon Toad|"
+  },
+  {
+    "name": "Luiginette Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Luiginette|"
+  },
+  {
+    "name": "Withered Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Sonic|"
+  },
+  {
+    "name": "Withered Mario Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Mario|"
+  },
+  {
+    "name": "Withered Yoshi Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Yoshi|"
+  },
+  {
+    "name": "Withered Tails Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Tails|"
+  },
+  {
+    "name": "Golden Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Golden Sonic|"
+  },
+  {
+    "name": "Shadow Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Shadow Sonic|"
+  }
+]
